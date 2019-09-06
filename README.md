@@ -14,7 +14,9 @@ changeAssFont english.ass
 changeAssFont english.ass Algerian
 
 # Example of changes
+![alt text](https://i.imgur.com/ssQiMYz.png)
 # Before:
+```
 [Script Info]...
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +34,9 @@ Style: padrao,Myriad Pro Cond,39,&H00FFFFFF,&H00000000,&H64000000,&H00000041,-1,
 Style: preview,Myriad Pro Cond,39,&H00FFFFFF,&H00040405,&H00376530,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: Titulo,Arial,28,&H00BDB8B8,&H00040405,&HD3040405,&H78000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 [Events]...
-
+```
 # After using Ass Font Changer:
+```
 [Script Info]...
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -50,3 +53,4 @@ Style: padrao,Arial,39,&H00FFFFFF,&H00000000,&H64000000,&H00000041,-1,0,0,0,100,
 Style: preview,Arial,39,&H00FFFFFF,&H00040405,&H00376530,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 Style: Titulo,Arial,28,&H00BDB8B8,&H00040405,&HD3040405,&H78000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 [Events]...
+```
