@@ -1,5 +1,5 @@
 # Ass-Font-Changer
-Font changer for Ass subtitle files. C++ code which simply reads file, do some string manipulations, write result to same file.
+Font changer for ASS subtitle files. C++ code which simply reads file, do some string manipulations, write result to same file.
 
 # Usage
 This program accepts command line arguments. No, one or two arguments for the execution.
